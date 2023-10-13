@@ -72,3 +72,5 @@ cd build
 - **--dramatic_sepia**: Apply a dramatic sepia effect to the image.
 
 - **--help**: Display this documentation.
+
+### Note: The edited image will be saved in the `img` directory.
