@@ -1,4 +1,4 @@
-# Image-Editor
+# BMP Image-Editor
 
 ## Features
 
